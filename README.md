@@ -9,7 +9,7 @@
   <li><b>Python：</b>写一些小脚本 python 是优选 For some small scripts, python is a good choice</li>
   <li><b>Rust：</b>进行需要效率的程序的书写并且考虑安全性时 rust 是不错的选择 When you consider the safety and the excuting efficiency, rust is a choice that I think better than Cpp</li>
   <li><b>C++：</b>自从用了 rust 之后有些抛弃了 After learning rust, cpp is ignored sometimes</li>
-  <li><b>C：</b>在学习linux源码的时候使用 Some time when reading the beautiful and fuckshit linux kernel source code, I use C for some examples. Btw, it's no sense to add a new package unless it's working</li>
+  <li><b>C：</b>在学习linux源码的时候使用 Some time when reading the beautiful and huge linux kernel source code, I use C for some examples. Btw, it's no sense to add a new package unless it's working</li>
 </ul>
 
 ## Github Stats✨
